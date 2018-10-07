@@ -1,0 +1,7 @@
+<resources>
+    <!--
+    <string name="hello_world">Hello le monde</string>-->
+
+    <string name="app_name">Middle Project</string>
+    <string name="hello_world">Hello le monde</string>
+</resources>
